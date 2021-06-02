@@ -1,0 +1,2 @@
+# CounterScamContrat
+Contract CounterScam
